@@ -1,0 +1,23 @@
+/*#chicken {
+	background-color: #906090;
+}
+
+#beef {
+	background-color: maroon;
+}
+
+#sushi {
+	background-color: gray;
+}*/
+
+#content {
+	background-color: #f3f3f3;
+}
+
+
+@media (max-width: 767px) {
+	#content {
+		margin-left: 30px;
+		margin-right: 30px;
+	}
+}
